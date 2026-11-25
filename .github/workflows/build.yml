@@ -1,4 +1,4 @@
-name:Jarvic
+name: Jarvic 
 on:
   workflow_dispatch:
   push:
